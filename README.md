@@ -24,7 +24,88 @@ The library provides a preset customisation of your Svg components.
 
 ## How to Contribute
 
-- ... Work in progress
+We welcome contributions to svgestor! Whether it's a bug fix, new feature, or improving documentation, your help is valuable. Here's how you can contribute:
+
+## 1. Fork the Repository
+Click the Fork button in the top right corner of the repository page.  
+This creates a copy of the repository under your GitHub account.
+
+## 2. Clone Your Fork
+Clone your forked repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/svgestor.git
+cd svgestor
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MindfulLearner/svgestor.git
+Install dependencies:
+
+bash
+Copy code
+npm install
+Run the application:
+
+bash
+Copy code
+npm start
+Usage
+Explain how to use your tool here.
+
+How to Contribute
+We welcome contributions to svgestor! Whether it's a bug fix, new feature, or improving documentation, your help is valuable. Here's how you can contribute:
+
+1. Fork the Repository
+   Click the Fork button in the top right corner of the repository page.
+   This creates a copy of the repository under your GitHub account.
+2. Clone Your Fork
+   Clone your forked repository to your local machine:
+
+bash
+Copy code
+git clone https://github.com/your-username/svgestor.git
+cd svgestor
+3. Create a New Branch
+   Create a new branch for your feature or bug fix:
+
+bash
+Copy code
+git checkout -b feature-or-bugfix-name
+4. Make Your Changes
+   Implement your feature or fix the bug.
+   Follow the coding style and structure of the project.
+   Add or update tests if applicable.
+   Run the tests to ensure everything works correctly:
+   bash
+   Copy code
+   npm test  # Adjust if a different testing command is used
+5. Commit Your Changes
+   Stage your changes:
+   bash
+   Copy code
+   git add .
+   Commit your changes with a descriptive message:
+   bash
+   Copy code
+   git commit -m "Brief description of the changes"
+6. Push to Your Fork
+   Push the changes to your forked repository:
+
+bash
+Copy code
+git push origin feature-or-bugfix-name
+7. Submit a Pull Request
+   Go to the original repository on GitHub.
+   Click on Pull Requests > New Pull Request.
+   Select the branch you just pushed from your fork.
+   Add a title and description for your pull request.
+   Submit the pull request for review.
+8. Engage in Review
+   Respond to feedback or suggestions from maintainers.
+   Make necessary updates and push them to your branch.
 
 
 ## INSTALLATION
@@ -179,3 +260,4 @@ If you want other Overview check this issue [Issue #1 Svgestor Overview](https:/
 
 
 i've been following tutorial by Yan Sun to build my library, [tutorial](https://blog.logrocket.com/how-to-build-component-library-react-typescript/#setting-up-development-environment)
+
